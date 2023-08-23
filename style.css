@@ -1,0 +1,14 @@
+body {
+  background-color: beige;
+  background-image: url("https://p7.itc.cn/images01/20211014/5845d42e6bf54f5eb207389d18369489.jpeg");
+  background-size: 150px;
+}
+
+h1.Head {
+  background-color: rgb(43, 164, 173);
+  color: white;
+  opacity: 0.8;
+  font-size: 40px;
+  font-family: Verdana;
+  text-align: center;
+}
